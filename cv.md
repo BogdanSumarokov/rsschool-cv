@@ -14,3 +14,11 @@
 > I'm 20 years old. I am a novice frontend developer.  I don't have any work experience yet, but I plan to get it very soon. I now devote almost all my free time to learning programming, and I also like to read and train.
 
 ---
+
+## Skills:
+1. git - beginner
+2. HTML - intermediate
+3. CSS - intermediate
+4. JS - beginer
+
+---
