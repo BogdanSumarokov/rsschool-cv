@@ -47,3 +47,10 @@ function finalGrade (exam, projects) {
 }
 ```
 ---
+
+## Courses:
+* HTML (W3SCHOOL)
+* CSS (W3SCHOOL)
+
+
+![alt text](/assets/image/tutorials.png)
