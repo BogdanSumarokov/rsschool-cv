@@ -148,3 +148,8 @@ pre {
     height: 50px;
     margin: 0px;
 }
+@media (max-width: 1279px){
+    body{
+        width: 1280px;
+    }
+}
