@@ -153,3 +153,16 @@ pre {
         width: 1280px;
     }
 }
+.project{
+    height: 75px;
+    padding: 10px;
+    border: 5px solid coral;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.project>a{
+    text-decoration: none;
+    color: gold;
+}
